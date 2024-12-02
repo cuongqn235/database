@@ -1,4 +1,6 @@
-{
+{ 
+  "version":"v1.0.1",
+  "notification":"",
   "tasks": [
     {
       "id": "38f6dd88-57bd-4b42-8712-286a06dac0a0",
