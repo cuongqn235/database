@@ -2,6 +2,10 @@
   "version": "v1.0.4",
   "contact": "https://t.me/CryptoToolsSharing",
   "noti": "",
+   "daily": {
+    "dailyCode": "1214",
+    "day": "09-12-2024"
+  },
   "tasks": [
   ]
 }
