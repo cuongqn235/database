@@ -1,7 +1,7 @@
 { 
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "Thêm nâng cấp boots, sửa lỗi farm cho account mới",
+  "noti": "v1.0.1: Thêm nâng cấp boots, sửa lỗi farm cho account mới\nv1.0.2: Thêm tính năng battle",
   "tasks": [
   ]
 }
