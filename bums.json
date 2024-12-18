@@ -3,11 +3,19 @@
   "contact": "https://t.me/CryptoToolsSharing",
   "noti": "Fix spin, điểm danh hằng ngày",
   "tasks": [
-     {
+    {
+      "id": 266,
+      "keyword": 74624
+    },
+    {
+      "id": 259,
+      "keyword": 46336
+    },
+    {
       "id": 277,
       "keyword": 15402
     },
-     {
+    {
       "id": 269,
       "keyword": 20437
     },
