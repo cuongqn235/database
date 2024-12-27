@@ -1,0 +1,1758 @@
+{
+  "version": "v1.0.0",
+  "contact": "https://t.me/CryptoToolsSharing",
+  "noti": "",
+  "tasks": [],
+  "levels": [
+    {
+      "id": 1,
+      "major_level": 1,
+      "secondary_level": 0,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 35511,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 2,
+      "major_level": 1,
+      "secondary_level": 1,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 61829,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 3,
+      "major_level": 1,
+      "secondary_level": 2,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 85519,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 4,
+      "major_level": 1,
+      "secondary_level": 3,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 107650,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 5,
+      "major_level": 1,
+      "secondary_level": 4,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 128689,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 6,
+      "major_level": 1,
+      "secondary_level": 5,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 148897,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 7,
+      "major_level": 1,
+      "secondary_level": 6,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 168440,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 8,
+      "major_level": 2,
+      "secondary_level": 0,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 187429,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 9,
+      "major_level": 2,
+      "secondary_level": 1,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 205949,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 10,
+      "major_level": 2,
+      "secondary_level": 2,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 224061,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 11,
+      "major_level": 2,
+      "secondary_level": 3,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 241813,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 12,
+      "major_level": 2,
+      "secondary_level": 4,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 259245,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 13,
+      "major_level": 2,
+      "secondary_level": 5,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 276389,
+      "insert_tm": "2024-10-23T13:20:52Z",
+      "update_tm": "2024-10-23T13:20:52Z"
+    },
+    {
+      "id": 14,
+      "major_level": 2,
+      "secondary_level": 6,
+      "zoo_rate": 0,
+      "daily_zoo_gen": 0,
+      "level_up_coin": 293270,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T13:20:53Z"
+    },
+    {
+      "id": 15,
+      "major_level": 3,
+      "secondary_level": 0,
+      "zoo_rate": 1.48,
+      "daily_zoo_gen": 35.52,
+      "level_up_coin": 309912,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 16,
+      "major_level": 3,
+      "secondary_level": 1,
+      "zoo_rate": 1.58,
+      "daily_zoo_gen": 37.92,
+      "level_up_coin": 326334,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 17,
+      "major_level": 3,
+      "secondary_level": 2,
+      "zoo_rate": 1.68,
+      "daily_zoo_gen": 40.32,
+      "level_up_coin": 342551,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 18,
+      "major_level": 3,
+      "secondary_level": 3,
+      "zoo_rate": 1.78,
+      "daily_zoo_gen": 42.72,
+      "level_up_coin": 358578,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 19,
+      "major_level": 3,
+      "secondary_level": 4,
+      "zoo_rate": 1.88,
+      "daily_zoo_gen": 45.12,
+      "level_up_coin": 374428,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 20,
+      "major_level": 3,
+      "secondary_level": 5,
+      "zoo_rate": 1.99,
+      "daily_zoo_gen": 47.76,
+      "level_up_coin": 390113,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 21,
+      "major_level": 3,
+      "secondary_level": 6,
+      "zoo_rate": 2.1,
+      "daily_zoo_gen": 50.4,
+      "level_up_coin": 405641,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 22,
+      "major_level": 4,
+      "secondary_level": 0,
+      "zoo_rate": 3,
+      "daily_zoo_gen": 72,
+      "level_up_coin": 487759,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 23,
+      "major_level": 4,
+      "secondary_level": 1,
+      "zoo_rate": 3.17,
+      "daily_zoo_gen": 76.08,
+      "level_up_coin": 521105,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 24,
+      "major_level": 4,
+      "secondary_level": 2,
+      "zoo_rate": 3.33,
+      "daily_zoo_gen": 79.92,
+      "level_up_coin": 555361,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 25,
+      "major_level": 4,
+      "secondary_level": 3,
+      "zoo_rate": 3.5,
+      "daily_zoo_gen": 84,
+      "level_up_coin": 590522,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T13:20:53Z"
+    },
+    {
+      "id": 26,
+      "major_level": 4,
+      "secondary_level": 4,
+      "zoo_rate": 3.67,
+      "daily_zoo_gen": 88.08,
+      "level_up_coin": 626580,
+      "insert_tm": "2024-10-23T13:20:53Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 27,
+      "major_level": 4,
+      "secondary_level": 5,
+      "zoo_rate": 3.85,
+      "daily_zoo_gen": 92.4,
+      "level_up_coin": 663526,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 28,
+      "major_level": 4,
+      "secondary_level": 6,
+      "zoo_rate": 4.02,
+      "daily_zoo_gen": 96.48,
+      "level_up_coin": 701356,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 29,
+      "major_level": 5,
+      "secondary_level": 0,
+      "zoo_rate": 4.97,
+      "daily_zoo_gen": 119.28,
+      "level_up_coin": 789236,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 30,
+      "major_level": 5,
+      "secondary_level": 1,
+      "zoo_rate": 5.19,
+      "daily_zoo_gen": 124.56,
+      "level_up_coin": 830033,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 31,
+      "major_level": 5,
+      "secondary_level": 2,
+      "zoo_rate": 5.42,
+      "daily_zoo_gen": 130.08,
+      "level_up_coin": 871655,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 32,
+      "major_level": 5,
+      "secondary_level": 3,
+      "zoo_rate": 5.65,
+      "daily_zoo_gen": 135.6,
+      "level_up_coin": 914096,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 33,
+      "major_level": 5,
+      "secondary_level": 4,
+      "zoo_rate": 5.88,
+      "daily_zoo_gen": 141.12,
+      "level_up_coin": 957349,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 34,
+      "major_level": 5,
+      "secondary_level": 5,
+      "zoo_rate": 6.12,
+      "daily_zoo_gen": 146.88,
+      "level_up_coin": 1001409,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 35,
+      "major_level": 5,
+      "secondary_level": 6,
+      "zoo_rate": 6.36,
+      "daily_zoo_gen": 152.64,
+      "level_up_coin": 1046268,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 36,
+      "major_level": 6,
+      "secondary_level": 0,
+      "zoo_rate": 7.9,
+      "daily_zoo_gen": 189.6,
+      "level_up_coin": 1091921,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 37,
+      "major_level": 6,
+      "secondary_level": 1,
+      "zoo_rate": 8.2,
+      "daily_zoo_gen": 196.8,
+      "level_up_coin": 1163659,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 38,
+      "major_level": 6,
+      "secondary_level": 2,
+      "zoo_rate": 8.51,
+      "daily_zoo_gen": 204.24,
+      "level_up_coin": 1237133,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 39,
+      "major_level": 6,
+      "secondary_level": 3,
+      "zoo_rate": 8.83,
+      "daily_zoo_gen": 211.92,
+      "level_up_coin": 1312327,
+      "insert_tm": "2024-10-23T13:20:54Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 40,
+      "major_level": 6,
+      "secondary_level": 4,
+      "zoo_rate": 9.15,
+      "daily_zoo_gen": 219.6,
+      "level_up_coin": 1389224,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 41,
+      "major_level": 6,
+      "secondary_level": 5,
+      "zoo_rate": 9.47,
+      "daily_zoo_gen": 227.28,
+      "level_up_coin": 1467808,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 42,
+      "major_level": 6,
+      "secondary_level": 6,
+      "zoo_rate": 9.79,
+      "daily_zoo_gen": 234.96,
+      "level_up_coin": 1548065,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 43,
+      "major_level": 7,
+      "secondary_level": 0,
+      "zoo_rate": 12.22,
+      "daily_zoo_gen": 293.28,
+      "level_up_coin": 1798600,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 44,
+      "major_level": 7,
+      "secondary_level": 1,
+      "zoo_rate": 12.64,
+      "daily_zoo_gen": 303.36,
+      "level_up_coin": 1884897,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 45,
+      "major_level": 7,
+      "secondary_level": 2,
+      "zoo_rate": 13.06,
+      "daily_zoo_gen": 313.44,
+      "level_up_coin": 1972806,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 46,
+      "major_level": 7,
+      "secondary_level": 3,
+      "zoo_rate": 13.49,
+      "daily_zoo_gen": 323.76,
+      "level_up_coin": 2062316,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T13:20:55Z"
+    },
+    {
+      "id": 47,
+      "major_level": 7,
+      "secondary_level": 4,
+      "zoo_rate": 13.92,
+      "daily_zoo_gen": 334.08,
+      "level_up_coin": 2153415,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 48,
+      "major_level": 7,
+      "secondary_level": 5,
+      "zoo_rate": 14.36,
+      "daily_zoo_gen": 344.64,
+      "level_up_coin": 2246091,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 49,
+      "major_level": 7,
+      "secondary_level": 6,
+      "zoo_rate": 14.81,
+      "daily_zoo_gen": 355.44,
+      "level_up_coin": 2340333,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 50,
+      "major_level": 8,
+      "secondary_level": 0,
+      "zoo_rate": 18.55,
+      "daily_zoo_gen": 445.2,
+      "level_up_coin": 2436130,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 51,
+      "major_level": 8,
+      "secondary_level": 1,
+      "zoo_rate": 19.13,
+      "daily_zoo_gen": 459.12,
+      "level_up_coin": 2533471,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 52,
+      "major_level": 8,
+      "secondary_level": 2,
+      "zoo_rate": 19.71,
+      "daily_zoo_gen": 473.04,
+      "level_up_coin": 2632346,
+      "insert_tm": "2024-10-23T13:20:55Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 53,
+      "major_level": 8,
+      "secondary_level": 3,
+      "zoo_rate": 20.29,
+      "daily_zoo_gen": 486.96,
+      "level_up_coin": 2732746,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 54,
+      "major_level": 8,
+      "secondary_level": 4,
+      "zoo_rate": 20.89,
+      "daily_zoo_gen": 501.36,
+      "level_up_coin": 2834659,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 55,
+      "major_level": 8,
+      "secondary_level": 5,
+      "zoo_rate": 21.49,
+      "daily_zoo_gen": 515.76,
+      "level_up_coin": 2938078,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 56,
+      "major_level": 8,
+      "secondary_level": 6,
+      "zoo_rate": 22.1,
+      "daily_zoo_gen": 530.4,
+      "level_up_coin": 3042993,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 57,
+      "major_level": 9,
+      "secondary_level": 0,
+      "zoo_rate": 27.8,
+      "daily_zoo_gen": 667.2,
+      "level_up_coin": 3247078,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 58,
+      "major_level": 9,
+      "secondary_level": 1,
+      "zoo_rate": 28.58,
+      "daily_zoo_gen": 685.92,
+      "level_up_coin": 3355385,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 59,
+      "major_level": 9,
+      "secondary_level": 2,
+      "zoo_rate": 29.38,
+      "daily_zoo_gen": 705.12,
+      "level_up_coin": 3465064,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 60,
+      "major_level": 9,
+      "secondary_level": 3,
+      "zoo_rate": 30.18,
+      "daily_zoo_gen": 724.32,
+      "level_up_coin": 3576108,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 61,
+      "major_level": 9,
+      "secondary_level": 4,
+      "zoo_rate": 30.99,
+      "daily_zoo_gen": 743.76,
+      "level_up_coin": 3688507,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 62,
+      "major_level": 9,
+      "secondary_level": 5,
+      "zoo_rate": 31.82,
+      "daily_zoo_gen": 763.68,
+      "level_up_coin": 3802253,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 63,
+      "major_level": 9,
+      "secondary_level": 6,
+      "zoo_rate": 32.65,
+      "daily_zoo_gen": 783.6,
+      "level_up_coin": 3917337,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 64,
+      "major_level": 10,
+      "secondary_level": 0,
+      "zoo_rate": 36.39,
+      "daily_zoo_gen": 873.36,
+      "level_up_coin": 4033751,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 65,
+      "major_level": 10,
+      "secondary_level": 1,
+      "zoo_rate": 37.33,
+      "daily_zoo_gen": 895.92,
+      "level_up_coin": 4151487,
+      "insert_tm": "2024-10-23T13:20:56Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 66,
+      "major_level": 10,
+      "secondary_level": 2,
+      "zoo_rate": 38.27,
+      "daily_zoo_gen": 918.48,
+      "level_up_coin": 4270537,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 67,
+      "major_level": 10,
+      "secondary_level": 3,
+      "zoo_rate": 39.23,
+      "daily_zoo_gen": 941.52,
+      "level_up_coin": 4390893,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 68,
+      "major_level": 10,
+      "secondary_level": 4,
+      "zoo_rate": 40.19,
+      "daily_zoo_gen": 964.56,
+      "level_up_coin": 4512549,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 69,
+      "major_level": 10,
+      "secondary_level": 5,
+      "zoo_rate": 41.17,
+      "daily_zoo_gen": 988.08,
+      "level_up_coin": 4635495,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 70,
+      "major_level": 10,
+      "secondary_level": 6,
+      "zoo_rate": 42.15,
+      "daily_zoo_gen": 1011.6,
+      "level_up_coin": 4759726,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 71,
+      "major_level": 11,
+      "secondary_level": 0,
+      "zoo_rate": 46.99,
+      "daily_zoo_gen": 1127.76,
+      "level_up_coin": 4966655,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 72,
+      "major_level": 11,
+      "secondary_level": 1,
+      "zoo_rate": 48.1,
+      "daily_zoo_gen": 1154.4,
+      "level_up_coin": 5094177,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 73,
+      "major_level": 11,
+      "secondary_level": 2,
+      "zoo_rate": 49.22,
+      "daily_zoo_gen": 1181.28,
+      "level_up_coin": 5222960,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 74,
+      "major_level": 11,
+      "secondary_level": 3,
+      "zoo_rate": 50.35,
+      "daily_zoo_gen": 1208.4,
+      "level_up_coin": 5352995,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 75,
+      "major_level": 11,
+      "secondary_level": 4,
+      "zoo_rate": 51.49,
+      "daily_zoo_gen": 1235.76,
+      "level_up_coin": 5484278,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 76,
+      "major_level": 11,
+      "secondary_level": 5,
+      "zoo_rate": 52.65,
+      "daily_zoo_gen": 1263.6,
+      "level_up_coin": 5616801,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 77,
+      "major_level": 11,
+      "secondary_level": 6,
+      "zoo_rate": 53.81,
+      "daily_zoo_gen": 1291.44,
+      "level_up_coin": 5750559,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 78,
+      "major_level": 12,
+      "secondary_level": 0,
+      "zoo_rate": 57.44,
+      "daily_zoo_gen": 1378.56,
+      "level_up_coin": 5885545,
+      "insert_tm": "2024-10-23T13:20:57Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 79,
+      "major_level": 12,
+      "secondary_level": 1,
+      "zoo_rate": 58.68,
+      "daily_zoo_gen": 1408.32,
+      "level_up_coin": 6021753,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 80,
+      "major_level": 12,
+      "secondary_level": 2,
+      "zoo_rate": 59.94,
+      "daily_zoo_gen": 1438.56,
+      "level_up_coin": 6159178,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 81,
+      "major_level": 12,
+      "secondary_level": 3,
+      "zoo_rate": 61.22,
+      "daily_zoo_gen": 1469.28,
+      "level_up_coin": 6297815,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 82,
+      "major_level": 12,
+      "secondary_level": 4,
+      "zoo_rate": 62.5,
+      "daily_zoo_gen": 1500,
+      "level_up_coin": 6437656,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 83,
+      "major_level": 12,
+      "secondary_level": 5,
+      "zoo_rate": 63.79,
+      "daily_zoo_gen": 1530.96,
+      "level_up_coin": 6578697,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 84,
+      "major_level": 12,
+      "secondary_level": 6,
+      "zoo_rate": 65.1,
+      "daily_zoo_gen": 1562.4,
+      "level_up_coin": 6720932,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T13:20:58Z"
+    },
+    {
+      "id": 85,
+      "major_level": 13,
+      "secondary_level": 0,
+      "zoo_rate": 69.44,
+      "daily_zoo_gen": 1666.56,
+      "level_up_coin": 6864356,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 86,
+      "major_level": 13,
+      "secondary_level": 1,
+      "zoo_rate": 70.83,
+      "daily_zoo_gen": 1699.92,
+      "level_up_coin": 7008964,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 87,
+      "major_level": 13,
+      "secondary_level": 2,
+      "zoo_rate": 72.25,
+      "daily_zoo_gen": 1734,
+      "level_up_coin": 7154751,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 88,
+      "major_level": 13,
+      "secondary_level": 3,
+      "zoo_rate": 73.67,
+      "daily_zoo_gen": 1768.08,
+      "level_up_coin": 7301710,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 89,
+      "major_level": 13,
+      "secondary_level": 4,
+      "zoo_rate": 75.11,
+      "daily_zoo_gen": 1802.64,
+      "level_up_coin": 7449838,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 90,
+      "major_level": 13,
+      "secondary_level": 5,
+      "zoo_rate": 76.55,
+      "daily_zoo_gen": 1837.2,
+      "level_up_coin": 7599130,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 91,
+      "major_level": 13,
+      "secondary_level": 6,
+      "zoo_rate": 78.01,
+      "daily_zoo_gen": 1872.24,
+      "level_up_coin": 7749580,
+      "insert_tm": "2024-10-23T13:20:58Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 92,
+      "major_level": 14,
+      "secondary_level": 0,
+      "zoo_rate": 83.16,
+      "daily_zoo_gen": 1995.84,
+      "level_up_coin": 7901184,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 93,
+      "major_level": 14,
+      "secondary_level": 1,
+      "zoo_rate": 84.73,
+      "daily_zoo_gen": 2033.52,
+      "level_up_coin": 8053938,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 94,
+      "major_level": 14,
+      "secondary_level": 2,
+      "zoo_rate": 86.3,
+      "daily_zoo_gen": 2071.2,
+      "level_up_coin": 8207836,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 95,
+      "major_level": 14,
+      "secondary_level": 3,
+      "zoo_rate": 87.89,
+      "daily_zoo_gen": 2109.36,
+      "level_up_coin": 8362873,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 96,
+      "major_level": 14,
+      "secondary_level": 4,
+      "zoo_rate": 89.49,
+      "daily_zoo_gen": 2147.76,
+      "level_up_coin": 8519047,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 97,
+      "major_level": 14,
+      "secondary_level": 5,
+      "zoo_rate": 91.11,
+      "daily_zoo_gen": 2186.64,
+      "level_up_coin": 8676351,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T13:20:59Z"
+    },
+    {
+      "id": 98,
+      "major_level": 14,
+      "secondary_level": 6,
+      "zoo_rate": 92.74,
+      "daily_zoo_gen": 2225.76,
+      "level_up_coin": 8834783,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 99,
+      "major_level": 15,
+      "secondary_level": 0,
+      "zoo_rate": 98.82,
+      "daily_zoo_gen": 2371.68,
+      "level_up_coin": 8994337,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 100,
+      "major_level": 15,
+      "secondary_level": 1,
+      "zoo_rate": 100.56,
+      "daily_zoo_gen": 2413.44,
+      "level_up_coin": 9155009,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 101,
+      "major_level": 15,
+      "secondary_level": 2,
+      "zoo_rate": 102.32,
+      "daily_zoo_gen": 2455.68,
+      "level_up_coin": 9316795,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 102,
+      "major_level": 15,
+      "secondary_level": 3,
+      "zoo_rate": 104.08,
+      "daily_zoo_gen": 2497.92,
+      "level_up_coin": 9479691,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 103,
+      "major_level": 15,
+      "secondary_level": 4,
+      "zoo_rate": 105.87,
+      "daily_zoo_gen": 2540.88,
+      "level_up_coin": 9643694,
+      "insert_tm": "2024-10-23T13:20:59Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 104,
+      "major_level": 15,
+      "secondary_level": 5,
+      "zoo_rate": 107.66,
+      "daily_zoo_gen": 2583.84,
+      "level_up_coin": 9808798,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 105,
+      "major_level": 15,
+      "secondary_level": 6,
+      "zoo_rate": 109.48,
+      "daily_zoo_gen": 2627.52,
+      "level_up_coin": 9975000,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 106,
+      "major_level": 16,
+      "secondary_level": 0,
+      "zoo_rate": 116.61,
+      "daily_zoo_gen": 2798.64,
+      "level_up_coin": 10195121,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 107,
+      "major_level": 16,
+      "secondary_level": 1,
+      "zoo_rate": 118.55,
+      "daily_zoo_gen": 2845.2,
+      "level_up_coin": 10416979,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 108,
+      "major_level": 16,
+      "secondary_level": 2,
+      "zoo_rate": 120.5,
+      "daily_zoo_gen": 2892,
+      "level_up_coin": 10640567,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 109,
+      "major_level": 16,
+      "secondary_level": 3,
+      "zoo_rate": 122.47,
+      "daily_zoo_gen": 2939.28,
+      "level_up_coin": 10865879,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 110,
+      "major_level": 16,
+      "secondary_level": 4,
+      "zoo_rate": 124.45,
+      "daily_zoo_gen": 2986.8,
+      "level_up_coin": 11092907,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 111,
+      "major_level": 16,
+      "secondary_level": 5,
+      "zoo_rate": 126.44,
+      "daily_zoo_gen": 3034.56,
+      "level_up_coin": 11321645,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 112,
+      "major_level": 16,
+      "secondary_level": 6,
+      "zoo_rate": 128.45,
+      "daily_zoo_gen": 3082.8,
+      "level_up_coin": 11552086,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 113,
+      "major_level": 17,
+      "secondary_level": 0,
+      "zoo_rate": 136.79,
+      "daily_zoo_gen": 3282.96,
+      "level_up_coin": 11784225,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 114,
+      "major_level": 17,
+      "secondary_level": 1,
+      "zoo_rate": 138.94,
+      "daily_zoo_gen": 3334.56,
+      "level_up_coin": 12018054,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 115,
+      "major_level": 17,
+      "secondary_level": 2,
+      "zoo_rate": 141.1,
+      "daily_zoo_gen": 3386.4,
+      "level_up_coin": 12253567,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 116,
+      "major_level": 17,
+      "secondary_level": 3,
+      "zoo_rate": 143.28,
+      "daily_zoo_gen": 3438.72,
+      "level_up_coin": 12490759,
+      "insert_tm": "2024-10-23T13:21:00Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 117,
+      "major_level": 17,
+      "secondary_level": 4,
+      "zoo_rate": 145.48,
+      "daily_zoo_gen": 3491.52,
+      "level_up_coin": 12729622,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 118,
+      "major_level": 17,
+      "secondary_level": 5,
+      "zoo_rate": 147.69,
+      "daily_zoo_gen": 3544.56,
+      "level_up_coin": 12970151,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 119,
+      "major_level": 17,
+      "secondary_level": 6,
+      "zoo_rate": 149.91,
+      "daily_zoo_gen": 3597.84,
+      "level_up_coin": 13212341,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 120,
+      "major_level": 18,
+      "secondary_level": 0,
+      "zoo_rate": 159.61,
+      "daily_zoo_gen": 3830.64,
+      "level_up_coin": 13456184,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 121,
+      "major_level": 18,
+      "secondary_level": 1,
+      "zoo_rate": 161.99,
+      "daily_zoo_gen": 3887.76,
+      "level_up_coin": 13701676,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 122,
+      "major_level": 18,
+      "secondary_level": 2,
+      "zoo_rate": 164.39,
+      "daily_zoo_gen": 3945.36,
+      "level_up_coin": 13948811,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 123,
+      "major_level": 18,
+      "secondary_level": 3,
+      "zoo_rate": 166.8,
+      "daily_zoo_gen": 4003.2,
+      "level_up_coin": 14197583,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 124,
+      "major_level": 18,
+      "secondary_level": 4,
+      "zoo_rate": 169.23,
+      "daily_zoo_gen": 4061.52,
+      "level_up_coin": 14447986,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T13:21:01Z"
+    },
+    {
+      "id": 125,
+      "major_level": 18,
+      "secondary_level": 5,
+      "zoo_rate": 171.67,
+      "daily_zoo_gen": 4120.08,
+      "level_up_coin": 14700015,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 126,
+      "major_level": 18,
+      "secondary_level": 6,
+      "zoo_rate": 174.14,
+      "daily_zoo_gen": 4179.36,
+      "level_up_coin": 14953665,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 127,
+      "major_level": 19,
+      "secondary_level": 0,
+      "zoo_rate": 185.38,
+      "daily_zoo_gen": 4449.12,
+      "level_up_coin": 15208929,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 128,
+      "major_level": 19,
+      "secondary_level": 1,
+      "zoo_rate": 188.01,
+      "daily_zoo_gen": 4512.24,
+      "level_up_coin": 15465804,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 129,
+      "major_level": 19,
+      "secondary_level": 2,
+      "zoo_rate": 190.66,
+      "daily_zoo_gen": 4575.84,
+      "level_up_coin": 15724283,
+      "insert_tm": "2024-10-23T13:21:01Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 130,
+      "major_level": 19,
+      "secondary_level": 3,
+      "zoo_rate": 193.33,
+      "daily_zoo_gen": 4639.92,
+      "level_up_coin": 15984362,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 131,
+      "major_level": 19,
+      "secondary_level": 4,
+      "zoo_rate": 196.01,
+      "daily_zoo_gen": 4704.24,
+      "level_up_coin": 16246035,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 132,
+      "major_level": 19,
+      "secondary_level": 5,
+      "zoo_rate": 198.71,
+      "daily_zoo_gen": 4769.04,
+      "level_up_coin": 16509298,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 133,
+      "major_level": 19,
+      "secondary_level": 6,
+      "zoo_rate": 201.43,
+      "daily_zoo_gen": 4834.32,
+      "level_up_coin": 16774145,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 134,
+      "major_level": 20,
+      "secondary_level": 0,
+      "zoo_rate": 214.41,
+      "daily_zoo_gen": 5145.84,
+      "level_up_coin": 17040571,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T13:21:02Z"
+    },
+    {
+      "id": 135,
+      "major_level": 20,
+      "secondary_level": 1,
+      "zoo_rate": 217.32,
+      "daily_zoo_gen": 5215.68,
+      "level_up_coin": 17308572,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 136,
+      "major_level": 20,
+      "secondary_level": 2,
+      "zoo_rate": 220.24,
+      "daily_zoo_gen": 5285.76,
+      "level_up_coin": 17578143,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 137,
+      "major_level": 20,
+      "secondary_level": 3,
+      "zoo_rate": 223.18,
+      "daily_zoo_gen": 5356.32,
+      "level_up_coin": 17849278,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 138,
+      "major_level": 20,
+      "secondary_level": 4,
+      "zoo_rate": 226.14,
+      "daily_zoo_gen": 5427.36,
+      "level_up_coin": 18121974,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 139,
+      "major_level": 20,
+      "secondary_level": 5,
+      "zoo_rate": 229.12,
+      "daily_zoo_gen": 5498.88,
+      "level_up_coin": 18396226,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 140,
+      "major_level": 20,
+      "secondary_level": 6,
+      "zoo_rate": 232.12,
+      "daily_zoo_gen": 5570.88,
+      "level_up_coin": 18672028,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 141,
+      "major_level": 21,
+      "secondary_level": 0,
+      "zoo_rate": 247.07,
+      "daily_zoo_gen": 5929.68,
+      "level_up_coin": 18949377,
+      "insert_tm": "2024-10-23T13:21:02Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 142,
+      "major_level": 21,
+      "secondary_level": 1,
+      "zoo_rate": 250.27,
+      "daily_zoo_gen": 6006.48,
+      "level_up_coin": 19228269,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 143,
+      "major_level": 21,
+      "secondary_level": 2,
+      "zoo_rate": 253.5,
+      "daily_zoo_gen": 6084,
+      "level_up_coin": 19508697,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 144,
+      "major_level": 21,
+      "secondary_level": 3,
+      "zoo_rate": 256.74,
+      "daily_zoo_gen": 6161.76,
+      "level_up_coin": 19790659,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T13:21:03Z"
+    },
+    {
+      "id": 145,
+      "major_level": 21,
+      "secondary_level": 4,
+      "zoo_rate": 260,
+      "daily_zoo_gen": 6240,
+      "level_up_coin": 20074150,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 146,
+      "major_level": 21,
+      "secondary_level": 5,
+      "zoo_rate": 263.29,
+      "daily_zoo_gen": 6318.96,
+      "level_up_coin": 20359165,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 147,
+      "major_level": 21,
+      "secondary_level": 6,
+      "zoo_rate": 266.59,
+      "daily_zoo_gen": 6398.16,
+      "level_up_coin": 20645700,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 148,
+      "major_level": 22,
+      "secondary_level": 0,
+      "zoo_rate": 283.74,
+      "daily_zoo_gen": 6809.76,
+      "level_up_coin": 20933751,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 149,
+      "major_level": 22,
+      "secondary_level": 1,
+      "zoo_rate": 287.27,
+      "daily_zoo_gen": 6894.48,
+      "level_up_coin": 21223314,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 150,
+      "major_level": 22,
+      "secondary_level": 2,
+      "zoo_rate": 290.83,
+      "daily_zoo_gen": 6979.92,
+      "level_up_coin": 21514385,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 151,
+      "major_level": 22,
+      "secondary_level": 3,
+      "zoo_rate": 294.4,
+      "daily_zoo_gen": 7065.6,
+      "level_up_coin": 21806960,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 152,
+      "major_level": 22,
+      "secondary_level": 4,
+      "zoo_rate": 297.99,
+      "daily_zoo_gen": 7151.76,
+      "level_up_coin": 22101034,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 153,
+      "major_level": 22,
+      "secondary_level": 5,
+      "zoo_rate": 301.61,
+      "daily_zoo_gen": 7238.64,
+      "level_up_coin": 22396603,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 154,
+      "major_level": 22,
+      "secondary_level": 6,
+      "zoo_rate": 305.24,
+      "daily_zoo_gen": 7325.76,
+      "level_up_coin": 22693664,
+      "insert_tm": "2024-10-23T13:21:03Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 155,
+      "major_level": 23,
+      "secondary_level": 0,
+      "zoo_rate": 324.87,
+      "daily_zoo_gen": 7796.88,
+      "level_up_coin": 22992213,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 156,
+      "major_level": 23,
+      "secondary_level": 1,
+      "zoo_rate": 328.76,
+      "daily_zoo_gen": 7890.24,
+      "level_up_coin": 23292246,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 157,
+      "major_level": 23,
+      "secondary_level": 2,
+      "zoo_rate": 332.67,
+      "daily_zoo_gen": 7984.08,
+      "level_up_coin": 23593759,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 158,
+      "major_level": 23,
+      "secondary_level": 3,
+      "zoo_rate": 336.6,
+      "daily_zoo_gen": 8078.4,
+      "level_up_coin": 23896747,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 159,
+      "major_level": 23,
+      "secondary_level": 4,
+      "zoo_rate": 340.56,
+      "daily_zoo_gen": 8173.44,
+      "level_up_coin": 24201209,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 160,
+      "major_level": 23,
+      "secondary_level": 5,
+      "zoo_rate": 344.53,
+      "daily_zoo_gen": 8268.72,
+      "level_up_coin": 24507138,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 161,
+      "major_level": 23,
+      "secondary_level": 6,
+      "zoo_rate": 348.53,
+      "daily_zoo_gen": 8364.72,
+      "level_up_coin": 24814533,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 162,
+      "major_level": 24,
+      "secondary_level": 0,
+      "zoo_rate": 370.95,
+      "daily_zoo_gen": 8902.8,
+      "level_up_coin": 25123389,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 163,
+      "major_level": 24,
+      "secondary_level": 1,
+      "zoo_rate": 375.22,
+      "daily_zoo_gen": 9005.28,
+      "level_up_coin": 25433702,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 164,
+      "major_level": 24,
+      "secondary_level": 2,
+      "zoo_rate": 379.52,
+      "daily_zoo_gen": 9108.48,
+      "level_up_coin": 25745470,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 165,
+      "major_level": 24,
+      "secondary_level": 3,
+      "zoo_rate": 383.84,
+      "daily_zoo_gen": 9212.16,
+      "level_up_coin": 26058688,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 166,
+      "major_level": 24,
+      "secondary_level": 4,
+      "zoo_rate": 388.19,
+      "daily_zoo_gen": 9316.56,
+      "level_up_coin": 26373353,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 167,
+      "major_level": 24,
+      "secondary_level": 5,
+      "zoo_rate": 392.56,
+      "daily_zoo_gen": 9421.44,
+      "level_up_coin": 26689461,
+      "insert_tm": "2024-10-23T13:21:04Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 168,
+      "major_level": 24,
+      "secondary_level": 6,
+      "zoo_rate": 396.95,
+      "daily_zoo_gen": 9526.8,
+      "level_up_coin": 27007010,
+      "insert_tm": "2024-10-23T13:21:05Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 169,
+      "major_level": 25,
+      "secondary_level": 0,
+      "zoo_rate": 422.49,
+      "daily_zoo_gen": 10139.76,
+      "level_up_coin": 27325995,
+      "insert_tm": "2024-10-23T13:21:05Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 170,
+      "major_level": 25,
+      "secondary_level": 1,
+      "zoo_rate": 427.19,
+      "daily_zoo_gen": 10252.56,
+      "level_up_coin": 27646413,
+      "insert_tm": "2024-10-23T13:21:05Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 171,
+      "major_level": 25,
+      "secondary_level": 2,
+      "zoo_rate": 431.91,
+      "daily_zoo_gen": 10365.84,
+      "level_up_coin": 27968261,
+      "insert_tm": "2024-10-23T13:21:05Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 172,
+      "major_level": 25,
+      "secondary_level": 3,
+      "zoo_rate": 436.66,
+      "daily_zoo_gen": 10479.84,
+      "level_up_coin": 28291535,
+      "insert_tm": "2024-10-23T13:21:05Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 173,
+      "major_level": 25,
+      "secondary_level": 4,
+      "zoo_rate": 441.43,
+      "daily_zoo_gen": 10594.32,
+      "level_up_coin": 28616232,
+      "insert_tm": "2024-10-23T13:21:05Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    },
+    {
+      "id": 174,
+      "major_level": 25,
+      "secondary_level": 5,
+      "zoo_rate": 446.23,
+      "daily_zoo_gen": 10709.52,
+      "level_up_coin": 28942349,
+      "insert_tm": "2024-10-23T13:21:05Z",
+      "update_tm": "2024-10-23T13:21:05Z"
+    },
+    {
+      "id": 175,
+      "major_level": 25,
+      "secondary_level": 6,
+      "zoo_rate": 451.05,
+      "daily_zoo_gen": 10825.2,
+      "level_up_coin": 29269883,
+      "insert_tm": "2024-10-23T13:21:05Z",
+      "update_tm": "2024-10-23T14:24:12Z"
+    }
+  ]
+}
