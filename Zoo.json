@@ -1,0 +1,14 @@
+{
+  "version": "v1.0.0",
+  "contact": "https://t.me/CryptoToolsSharing",
+  "noti": "",
+  "daily_riddle": {
+    "key": "Parrot",
+    "day": "2024_12_30"
+  },
+  "rebus_riddle": {
+    "key": "crocodile",
+    "day": "2024_12_30"
+  },
+  "tasks": []
+}
