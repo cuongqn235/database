@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "",
+  "noti": "\nv1.0.1: Thêm quiz và boost",
   "daily_riddle": {
     "key": "Crow",
     "day": "2025_01_03"
