@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "\nv1.0.1: Thêm quiz và boost",
+  "noti": "\nv1.0.1: Thêm quiz và boost\nv1.0.2: Cải tiến hiệu năng cho tool",
   "daily_riddle": {
     "key": "Starfish",
     "day": "2025_01_10"
