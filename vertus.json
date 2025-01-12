@@ -1,7 +1,7 @@
 { 
-  "version": "v1.1.2",
+  "version": "v1.1.3",
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "\nClear task sponsors\nPass 3 task airdrop:\n\t- Follow on Telegram\n\t- Follow on X\n\t- Comlplete all sponsored missions",
+  "noti": "\nVượt nạp gas Ton(0.04) để rút về ví Vertus\nHoàn thành hết điều kiện airdrop",
   "daily": {
     "dailyCode": "3312",
     "day": "12-01-2025"
