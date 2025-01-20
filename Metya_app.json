@@ -1,0 +1,9 @@
+{ 
+  "version": "v1.0.1",
+  "contact": "https://t.me/CryptoToolsSharing",
+  "noti": "Cải tiến hiệu năng",
+  "tasks": [
+  ],
+  "VITE_API_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh5dWh3bnZjb3VycWlwaWt6cHFzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzczMTA1NzEsImV4cCI6MjA1Mjg4NjU3MX0.eiY9BXLduKhryaXYxLYRxgp2lWq1G4TXmepS5rncW14",
+  "VITE_API_URL":"https://xyuhwnvcourqipikzpqs.supabase.co"
+}
