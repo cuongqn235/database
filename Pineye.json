@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "",
+  "noti": "\nThêm bỏ qua làm task --> Sửa skip_tasks ở file config.json",
   "tasks": []
 }
