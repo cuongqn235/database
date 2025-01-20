@@ -1,7 +1,7 @@
 { 
-  "version": "v1.0.1",
+  "version": "v1.0.3",
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "",
+  "noti": "\nLog ref code, auto withdraw address\nFix: Upgrade card",
   "tasks": [
   ]
 }
