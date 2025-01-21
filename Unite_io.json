@@ -1,7 +1,7 @@
 { 
-  "version": "v1.0.3",
+  "version": "v1.0.4",
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "\nThêm tính năng cho ăn",
+  "noti": "\nSửa lỗi cho ăn\nLưu ý: xoá sạch file resource/tokens.txt",
   "tasks": [
   ]
 }
