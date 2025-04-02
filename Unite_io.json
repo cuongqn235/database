@@ -1,7 +1,7 @@
-{ 
-  "version": "v1.0.4",
+{
+  "version": 5,
+  "downloadUrl": null,
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "\nSửa lỗi cho ăn\nLưu ý: xoá sạch file resource/tokens.txt",
-  "tasks": [
-  ]
+  "symbol": "@CryptoToolsSharing",
+  "noti": "\tVersion 5: Sửa lỗi và cải tiến tool."
 }
