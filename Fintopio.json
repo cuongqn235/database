@@ -1,7 +1,7 @@
-{ 
-  "version": "v1.0.1",
+{
+  "version": 1,
+  "downloadUrl": null,
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "",
-  "tasks": [
-  ]
+  "symbol": "@CryptoToolsSharing",
+  "noti": null
 }
