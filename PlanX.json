@@ -76,6 +76,20 @@
     "Wallets can import multiple accounts.|True",
     "Wallets can directly convert to RMB.|False",
     "What does Mainnet mean?|Mainnet. The main public network of a crypto project",
-    "If you lose your wallet but have the recovery phrase, you can?|Recover your wallet"
+    "If you lose your wallet but have the recovery phrase, you can?|Recover your wallet",
+    "Cold wallets are better for long-term storage.|True",
+    "What does \"floor price\" mean?|Starting market price",
+    "How can you convert crypto to RMB?|Sell tokens for withdrawal",
+    "3*2=?|6",
+    "What happens if you transfer to the wrong wallet address?|Might be lost",
+    "What does Gas fee refer to?|Blockchain transaction fee",
+    "What does 'hacked' mean?|Hacked by someone",
+    "A friend asks for your recovery phrase to help you keep it safe, you should?|Refuse",
+    "6/3=？|2",
+    "Which cannot be used to create a wallet?|Microwave",
+    "Which wallet supports multiple chains?|PlanX Wallet",
+    "A friend says they made a lot of tokens and invites you to transfer, you should?|Be cautious",
+    "4-0=?|4",
+    "Clicked unknown airdrop link. What should you do?|Close without action"
   ]
 }
