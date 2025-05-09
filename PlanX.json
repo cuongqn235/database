@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "downloadUrl": null,
+  "contact": "https://t.me/CryptoToolsSharing",
+  "symbol": "@CryptoToolsSharing",
+  "noti": null,
+  "question": [
+    "You're going on a trip with assets in your wallet, what should you do?|Backup recovery phrase",
+    "Wallet addresses are short.|False",
+    "Downloading a wallet app automatically gives you tokens.|False",
+    "What connects the blocks?|Hash connection",
+    "App says you won and asks to connect wallet. You should?|Check for safety",
+    "You accidentally posted your private key screenshot in a group, you should?|Transfer assets immediately",
+    "What’s the first step after creating a wallet?|Backup the recovery phrase",
+    "What does Node represent?|Node — a computer running the full code and data of a blockchain",
+    "What does KYC mean?|Know Your Customer",
+    "What is a \"Hot Wallet\"?|An online wallet for storing crypto assets"
+  ]
+}
