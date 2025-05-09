@@ -74,6 +74,7 @@
     "Where can you create a PlanX wallet?|In the app",
     "What is the full form of CEX?|Centralized Exchange",
     "Wallets can import multiple accounts.|True",
-    "Wallets can directly convert to RMB.|False"
+    "Wallets can directly convert to RMB.|False",
+    "What does Mainnet mean?|Mainnet. The main public network of a crypto project"
   ]
 }
