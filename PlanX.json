@@ -64,6 +64,16 @@
     "What is \"staking\" in Web3?|Users lock cryptocurrencies to support blockchain operations and earn rewards",
     "Which of the following is not a password?|Recovery phrase",
     "What is the role of a hash?|Unique data identifier",
-    "You can view your balance in the wallet.|True"
+    "You can view your balance in the wallet.|True",
+    "Your balance decreases after a transfer.|True",
+    "Your wallet is lagging. You should?|Check network or restart",
+    "What's the safest way to send tokens to a friend?|Send their wallet address",
+    "What does DeFi mean?|Decentralized Finance",
+    "Private keys are used to verify identity.|True",
+    "6-4=？|2",
+    "Where can you create a PlanX wallet?|In the app",
+    "What is the full form of CEX?|Centralized Exchange",
+    "Wallets can import multiple accounts.|True",
+    "Wallets can directly convert to RMB.|False"
   ]
 }
