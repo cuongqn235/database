@@ -1,7 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "downloadUrl": null,
   "contact": "https://t.me/CryptoToolsSharing",
   "symbol": "@CryptoToolsSharing",
-  "noti": null
+  "noti": null,
+  "apikey":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdidG94dWhkYXZpdHp5aGxtcmxiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDEyNjYyMTAsImV4cCI6MjA1Njg0MjIxMH0.p0qJe1mSoqJshnFSLvtfP5DY0SsFynRSdB4agFdZkGA"
 }
