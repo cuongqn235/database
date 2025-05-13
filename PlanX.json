@@ -61,7 +61,7 @@
     "Which token is used to pay gas fees?|BNB",
     "Friend says 'Send me tokens and I'll double them'. You should?|Refuse",
     "The app says you won a prize and asks you to connect your wallet, you should?|Verify it's safe",
-    "Recovery phrases are made up of English words.|True",
+    "Recovery phrases are made up of English words.|False",
     "Which of the following is not a password?|Recovery phrase",
     "What is Bitcoin?|A type of digital currency",
     "Your recovery phrase is saved in your photo album. What should you do?|Delete it",
