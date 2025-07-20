@@ -1,6 +1,7 @@
 {
-  "version": "v1.0.3",
+  "version": 4,
+  "downloadUrl": null,
   "contact": "https://t.me/CryptoToolsSharing",
-  "noti": "Sửa lỗi api,lưu token và tắt chức năng làm nhiệm vụ\nLink: https://t.me/CryptoToolsSharing/78?comment=1137",
-  "tasks": []
+  "symbol": "@CryptoToolsSharing",
+  "noti": null
 }
